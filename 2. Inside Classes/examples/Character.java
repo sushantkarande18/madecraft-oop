@@ -13,4 +13,6 @@ public class Character {
 	Character bilbo = new Character("Bilbo", "Hobbit");
 	Character legolas = new Character("Legolas", "Elf");
 
+Sysout.out.println();
+
 }
